@@ -1,33 +1,27 @@
-Module 10 Challenge - Advanced SQL
+# Module 10 Challenge - Advanced SQL
 
-For this challenge I was tasked with analyzing the climate of Honolulu, Hawaii and then creating a climate app as well. 
+For this challenge, I was tasked with analyzing the climate of Honolulu, Hawaii, and creating a climate app.
 
-The csv files and the sqlite file can be found in the "Resources" folder. 
+- **Resources**: The CSV files and the SQLite file can be found in the "Resources" folder.
+- **Analysis**: The .ipynb file containing the analysis can be found in the "Analysis" folder.
+- **App**: The Python file containing the code for the app can be found in the "App" folder.
 
-The .ipynb file containing the analysis can be found in the "Analysis" folder. 
+## Analysis
+The starter code was extremely helpful in providing a layout for the task. Without it, I might have been quite lost. The analysis was straightforward due to its similarities to class activities.
 
-The python file containing the code for the app can be found in the "App" folder. 
+## App Development
+The class activity about Flask was a great resource for starting part 2 of this challenge, which involved designing the climate app.
 
-I found the starter code extremely helpful in giving me a layout of how this was to be completed, without that I probably would have been pretty lost. 
+## Routes
+The URLs for each route in the climate app are as follows:
 
-As for the analysis, it was pretty straight forward in terms of similarities to class activities. 
+- **Precipitation**: [http://127.0.0.1:5000/api/v1.0/precipitation](http://127.0.0.1:5000/api/v1.0/precipitation)
+- **Stations**: [http://127.0.0.1:5000/api/v1.0/stations](http://127.0.0.1:5000/api/v1.0/stations)
+- **TOBS**: [http://127.0.0.1:5000/api/v1.0/tobs](http://127.0.0.1:5000/api/v1.0/tobs)
+- **Start Date**: [http://127.0.0.1:5000/api/v1.0/2017-01-01](http://127.0.0.1:5000/api/v1.0/2017-01-01)
+- **Start and End Date**: [http://127.0.0.1:5000/api/v1.0/2017-01-01/2017-01-07](http://127.0.0.1:5000/api/v1.0/2017-01-01/2017-01-07)
 
-The class activity about Flask was a great resource to get started on part 2 of this challenge which was designing the climate app. 
+## Conclusion
+Overall, I am happy with how this challenge turned out and believe it meets the expectations.
 
-The URL's for each route can be found here:
-
-Precipitation: http://127.0.0.1:5000/api/v1.0/precipitation
-  
-Stations: http://127.0.0.1:5000/api/v1.0/stations
-  
-TOBS: http://127.0.0.1:5000/api/v1.0/tobs
-  
-Start: http://127.0.0.1:5000/api/v1.0/2017-01-01 
-  
-Start & End: http://127.0.0.1:5000/api/v1.0/2017-01-01/2017-01-07
-  
-  
-  
-Overall, I am pretty happy with how this challenge turned out and I hope it is what you are looking for.
-  
 Thank you for taking the time to grade my assignment!
