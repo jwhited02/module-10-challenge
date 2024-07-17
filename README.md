@@ -12,8 +12,22 @@ I found the starter code extremely helpful in giving me a layout of how this was
 
 As for the analysis, it was pretty straight forward in terms of similarities to class activities. 
 
-The class activity about Flask was a great resource for part 2 of this challenge which was designing the climate app. I was able to go off of that and create the app without many issues. 
+The class activity about Flask was a great resource to get started on part 2 of this challenge which was designing the climate app. 
 
+The URL's for each route can be found here:
+
+Precipitation: http://127.0.0.1:5000/api/v1.0/precipitation
+  
+Stations: http://127.0.0.1:5000/api/v1.0/stations
+  
+TOBS: http://127.0.0.1:5000/api/v1.0/tobs
+  
+Start: http://127.0.0.1:5000/api/v1.0/2017-01-01 
+  
+Start & End: http://127.0.0.1:5000/api/v1.0/2017-01-01/2017-01-07
+  
+  
+  
 Overall, I am pretty happy with how this challenge turned out and I hope it is what you are looking for.
-
+  
 Thank you for taking the time to grade my assignment!
