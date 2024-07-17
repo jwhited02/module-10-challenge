@@ -14,6 +14,6 @@ As for the analysis, it was pretty straight forward in terms of similarities to 
 
 The class activity about Flask was a great resource for part 2 of this challenge which was designing the climate app. I was able to go off of that and create the app without many issues. 
 
-Overall, I am pretty happy with how this challenge turned out and I hope it is what you are looking for!
+Overall, I am pretty happy with how this challenge turned out and I hope it is what you are looking for.
 
 Thank you for taking the time to grade my assignment!
