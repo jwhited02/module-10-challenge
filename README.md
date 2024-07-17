@@ -25,3 +25,5 @@ The URLs for each route in the climate app are as follows:
 Overall, I am happy with how this challenge turned out and believe it meets the expectations.
 
 Thank you for taking the time to grade my assignment!
+
+Name: Jackson Whited
