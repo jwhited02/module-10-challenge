@@ -10,7 +10,7 @@ For this challenge, I was tasked with analyzing the climate of Honolulu, Hawaii,
 The starter code was extremely helpful in providing a layout for the task. Without it, I might have been quite lost. The analysis was straightforward due to its similarities to class activities.
 
 ## App Development
-The class activity about Flask was a great resource for starting part 2 of this challenge, which involved designing the climate app.
+The class activity about Flask was a great resource for starting part 2 of this challenge, which involved designing the climate app. Most of the issues I had was something pretty simple, which was just replacing the 
 
 ## Routes
 The URLs for each route in the climate app are as follows:
